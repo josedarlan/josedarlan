@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://github.com/user-attachments/assets/78bb9e47-3530-42d3-9a6c-87b50d03e4aa)
 
 <!--
 **Darlan961/Darlan961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
