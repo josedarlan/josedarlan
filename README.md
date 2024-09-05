@@ -1,9 +1,7 @@
-### Hi there 👋
-
-![Uploading 68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d617232312e737667.svg…]()
+![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d686f72697a6f6e74616c2e737667](https://github.com/user-attachments/assets/d4f08871-bfc8-4471-ac6d-ad9d1a63c6c3)### Hi there 👋
 
 
-<!--
+
 **Darlan961/Darlan961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
