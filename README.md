@@ -1,4 +1,7 @@
 ### Hi there 👋
+file:///home/darlan/Downloads/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6c696e75782f6c696e75782d617232312e737667.svg
+file:///home/darlan/Downloads/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d686f72697a6f6e74616c2e737667.svg
+
 
 <!--
 **Darlan961/Darlan961** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
