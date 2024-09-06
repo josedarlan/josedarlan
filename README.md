@@ -12,15 +12,8 @@
 
 
 
-def informacoes():
-    nome = "Darlan"
-    email = "josedarlan.redes@gmail.com"
-    localidade = "Maceió-AL"
-    skill = "Service Provider and Data Center"    
-    print("\nInformações:\n")
-    print(f"Nome: {nome}")
-    print(f"Email: {email}")
-    print(f"Localidade: {localidade}")
-    print(f"Skill: {skill}")
-    
-informacoes()
+
+
+
+
+
