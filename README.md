@@ -6,6 +6,12 @@
 
 
 
+
+
+
+
+
+
 def informacoes():
     nome = "Darlan"
     email = "josedarlan.redes@gmail.com"
