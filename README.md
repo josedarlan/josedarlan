@@ -15,11 +15,15 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Summary About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Network Engineer | Computer Network Specialist<br></p>
+<p align="left">Hello, I'm José Darlan, a professional with over 5 years of experience in the Computer Networks area. I work in the planning, implementation and management of small, medium and large networks.</p>
+<p align="left">I have a degree in Internet Systems and I also have some certifications in the area of ​​network infrastructure. I always seek to improve my technical and interpersonal skills to keep up with the technological innovations in the area. I am passionate about technology and challenges.</p>
+<p align="left">I currently work at Intec Solutions, where I started my journey at the company as a N1 Analyst and today I am part of the Network Engineering team.</p>
+<p align="left">Over the years working at Intec, I have had the opportunity to work on several projects in the areas of Service Provider and Data Center, always seeking to develop customized solutions based on the needs of customers and automate repetitive processes.</p>
 
 ###
 
