@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">👩‍💻 Summary About Me</h3>
+<h3 align="left">👨🏻‍💻 Summary About Me</h3>
 
 ###
 
