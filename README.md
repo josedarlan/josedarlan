@@ -27,7 +27,7 @@
 
 ###
 
-<h3 align="left">🛠 Language, tools and Routing and Switching</h3>
+<h3 align="left">🛠 Tools and Routing & Switching</h3>
 
 ###
 
